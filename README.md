@@ -4,5 +4,8 @@
 
 <h1 align="center">"Greetings Earthling!"</h1>
 <p align="center">
-    I am ZodiaKGalXy (ZodiaK). 
+    I am ZodiaKGalXy (ZodiaK).
+</p>
+<p align="center">
+    Welcome to my GitHub page!
 </p>
